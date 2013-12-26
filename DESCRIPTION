@@ -1,0 +1,14 @@
+Package: ivpack
+Type: Package
+Title: Instrumental Variable Estimation.
+Version: 1.0
+Date: 2013-12-26
+Author: Dylan Small
+Maintainer: Dylan Small <dsmall@wharton.upenn.edu>
+Description: This package contains functions for carrying out instrumental variable estimation of causal effects and power analyses for instrumental variable studies. 
+Depends: AER, sandwich, lmtest
+License: GPL-2
+Packaged: 2014-01-14 20:09:26 UTC; dsmall
+NeedsCompilation: no
+Repository: CRAN
+Date/Publication: 2014-01-14 22:30:43
