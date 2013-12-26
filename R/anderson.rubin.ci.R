@@ -25,9 +25,9 @@ count=count+1
 }
 
 y2column=which(regressors.same.vec==0)
-y2=regressors[,y2column]
-Z=regressors[,-y2column]
-W2=instruments[,-instruments.columns.same]
+y2=as.matrix(regressors[,y2column])
+Z=as.matrix(regressors[,-y2column])
+W2=as.matrix(instruments[,-instruments.columns.same])
 
 l=ncol(W);
 k=ncol(Z);
