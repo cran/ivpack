@@ -1,5 +1,8 @@
-476a693a1bb9dfb5761b94672c561c2d *DESCRIPTION
+f99cb38eae063f9fce56a3af7bab07a4 *DESCRIPTION
 22df7d4c52dd99bc962e6d2434bd3875 *NAMESPACE
+e47ed0a99bb1287c601f22e5b4a678c3 *R/ARsensitivity.ci.R
+7fccbc3b10644429a75f722c93152b9d *R/ARsensitivity.power.R
+e18d08befe8c060402edfd064dfa3074 *R/ARsensitivity.size.R
 907095174b3420c3bac1f9059b5ec120 *R/anderson.rubin.ci.R
 59ac34c09e75c445c359840826cc2af8 *R/cluster.robust.se.R
 638df544e2595f1a7df0b656a1f97d8e *R/clx.R
@@ -8,6 +11,9 @@
 c301a297ffe30e1854298542bdac3d94 *R/robust.se.R
 c22527ab90a1b8ab4b7a64a352e9e651 *R/sigmav.func.R
 bffc7c448708886f3462b2ee913b3e3c *data/card.data.rda
+ab4d16c79ee4682b1653cc90c3fa0ffe *man/ARsensitivity.ci.Rd
+354f990dd4579b8a714ffc664d5b5fbe *man/ARsensitivity.power.Rd
+7f88d9650acdf2a2292b82ff9fa0d721 *man/ARsensitivity.size.Rd
 399ef5ded6d613126485e39c72493174 *man/anderson.rubin.ci.Rd
 f23fb42fd32533974cda17321c386343 *man/card.data.Rd
 510def2f41c18fa81d6904e7bc0eae3d *man/cluster.robust.se.Rd
